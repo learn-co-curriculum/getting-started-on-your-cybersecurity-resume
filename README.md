@@ -66,6 +66,4 @@ Especially if, for example, you’re living in Chicago and thinking of relocatin
 
 Read the upcoming lessons on the Technical and Work Experience sections of your resume so you can prepare to write your resume draft. 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-building-your-resume'>Building Your Resume</a> on Learn.co and start learning to code for free.</p>
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/getting-started-on-your-cybersecurity-resume'>Getting Started On Your Cybersecurity Resume</a> on Learn.co and start learning to code for free.</p>
