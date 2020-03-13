@@ -4,21 +4,20 @@ Your resume is the main way of catching the attention of a recruiter or hiring m
 
 By keeping your resume concise, it gives a preview of what you can do without giving your full story away. You want to highlight just enough to entice your potential employer to call you for more information.
 
-## Getting Started on Your New Resume
+## Getting Started on Your New Cybersecurity Resume
+
+As with most technical careers, cybersecurity resumes are crucial for deciphering (at first glance) whether you have the skills for the job. Beyond your technical experience and projects, your other experience (non-technical) also tells an important story about why you are applying for this position.  There should be a well-balanced mix of your technical and soft skills throughout your resume. 
+
 
 **Resume Template**
 
-Below are templates to get you started:
+Below is a template to get you started:
 
-[Software Engineering](https://docs.google.com/document/d/1DtUh2KYcyGEW_LtXaZka_I4pD8j0pa5vl46yZXNXv_A/edit?usp=sharing)
-
-[Data Science](https://docs.google.com/document/d/1bU2ztZzM59vypaUlLeH7CLmnfPtNSL6hHtApbmHNmkk/edit?usp=sharing)
-
-- Click on the respective link above based on your Flatiron program of study :)
+[Cybersecurity Analytics](https://docs.google.com/document/d/1SdS_dJyv4k9yrFKFgjhWUbKbjjyJpNGoKPbeuR-P3Kc/edit)
 
 - Make a copy of the doc; and share your Career Coach on it, giving them edit access.
 
-- We have two upcoming lessons that will address how to build the two primary portions of your resume -- your technical projects and work/education experience. *READ THESE LESSONS BEFORE STARTING TO FILL IN YOUR OWN DATA.*
+- We have three upcoming lessons that will address how to build the two primary portions of your resume -- your technical experience, technical skills, and work/education experience. *READ THESE LESSONS BEFORE STARTING TO FILL IN YOUR OWN DATA.*
 
 - Once all of your data is filled in (and you and your coach have reviewed it multiple times), upload it to your Learn profile. The url will be learn.co/yourusername/resume. 
  
@@ -34,7 +33,7 @@ Below are templates to get you started:
     
 NOTE: If you do not use the template linked above, please make sure the format of the resume follows the instructions below:
 
-  - Keep resume to 1 page
+  - Keep resume to 1 page, check in with your coach if you want to exceed to discuss.
   
   - Use legible font size (10 to 12 font)
   
@@ -46,6 +45,9 @@ NOTE: If you do not use the template linked above, please make sure the format o
   
   - Use short phrases and sentences with bullet points
 
+This [Resume Writing Checklist](https://docs.google.com/document/d/1rdNSFcvHfPkQJgcVivVVXAjskMtouTDx0Jw_ky75mPc/edit?pli=1#heading=h.c116z3mikapg) is a helpful guide as well. 
+
+And here’s even more [Cybersecurity Resume Tips & Resources](https://docs.google.com/document/d/15rYSV0nDaelf9_auwikptWEiDHds3vtRMak-TP7ZGV4/edit#heading=h.c116z3mikapg).
 
 ## Key Things to Keep in Mind
 
